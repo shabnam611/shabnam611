@@ -4,6 +4,6 @@
 <p>
 Everyday I try to help people and code things they need. 
 
-I love baking, travelling, painting, aeroplanes and also work as a support engineer at <a href = "wedevs.com">weDevs</a> Follow me on <a href = "https://twitter.com/mushritshabnam" target = "_blank">Twitter</a> and on <a href = "https://www.linkedin.com/in/mushrit-shabnam/" target = "_blank">LinkedIn</a>
+I love baking, travelling, painting, aeroplanes and also work as a support engineer at <a href = "wedevs.com">weDevs</a>. You can follow me on <a href = "https://twitter.com/mushritshabnam" target = "_blank">Twitter</a> and on <a href = "https://www.linkedin.com/in/mushrit-shabnam/" target = "_blank">LinkedIn</a>
 
 </p>
