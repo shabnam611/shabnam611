@@ -1,5 +1,4 @@
 <h1>Hello there!</h1>
-<h2>Good to see you here!!</h2>
 
 <div>
   <p>
