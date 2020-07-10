@@ -1,5 +1,5 @@
 <h1>Hello there!</h1>
-<h2>Good to see you here</2>
+<h2>Good to see you here</h2>
 
 <p>
 Everyday I try to help people and coding things they need. Sometimes I like to bake a good bread or sometimes I draw a moonlit night. 
