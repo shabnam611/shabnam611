@@ -9,7 +9,7 @@ Link exchange with friend?
 
   </p>
  <div style = "border-style: 1px solid black;">
-  <a href = "https://github.com/insomniacSabbir">InsomnicaSabbir</a>
+  <a href = "https://github.com/insomniacSabbir">InsomniacSabbir</a>
   </div>
 
 </div>
